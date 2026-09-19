@@ -2,7 +2,7 @@
 
 A browser-based scientific calculator built with plain HTML, CSS and JavaScript. It solves expressions using its own parser (tokenizer, Shunting-yard algorithm and stack evaluation) and does not use `eval()`.
 
-**Live demo:** https://tannushishodia2007.github.io/scientific-calculator-/
+**Live demo:** https://tannushishodia2007.github.io/Scientific-calculator-/
 
 ## Features
 
